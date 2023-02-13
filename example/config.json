@@ -1,5 +1,6 @@
 {
-  "api_key": "",
+  "api_key": "你的apikey",
   "Command": "github",
-  "Regexp": "zhanghao"
+  "Regexp": "zhanghao",
+  "Filter": ["政府","战争","打仗"]
 }
